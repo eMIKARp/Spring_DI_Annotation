@@ -1,4 +1,4 @@
-package pl.myspringapp.beans;
+package pl.myspringapp.beans.producers;
 
 public interface MessageProducer {
 
