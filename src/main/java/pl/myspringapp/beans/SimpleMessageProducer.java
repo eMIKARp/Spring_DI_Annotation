@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 public class SimpleMessageProducer implements MessageProducer{
 
 	public String getMessage() {
-		return "Message egzample: " +System.currentTimeMillis();
+		return "Message egzample: " + System.currentTimeMillis();
 	}
 
 }
